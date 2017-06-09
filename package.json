@@ -1,0 +1,24 @@
+{
+  "name": "pub.ssbc.io",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cloudflare4": "^0.2.5",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "express-github-webhook": "^1.0.6",
+    "github": "^9.2.0",
+    "lowdb": "^0.16.2",
+    "morgan": "~1.8.1",
+    "node-sass-middleware": "0.9.8",
+    "ping": "^0.2.2",
+    "serve-favicon": "~2.4.2",
+    "twig": "~0.10.3",
+    "validator": "^7.0.0"
+  }
+}

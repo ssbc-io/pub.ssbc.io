@@ -1,0 +1,16 @@
+{
+  "github": {
+    "username": "",
+    "password": "",
+    "accepted_label_id": 623536743,
+    "human_intervention_label_id": 623548310,
+    "authorized_validators": [
+      13725538
+    ]
+  },
+  "cloudflare": {
+    "email": "",
+    "key": "",
+    "zone_id": ""
+  }
+}
